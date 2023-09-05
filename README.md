@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm R. John Victor 👋</h1>
-<h3 align="center">Passionate Frontend Developer | India</h3>
+<h3 align="center">Passionate Full Stack Developer And UX/UI Designer | India</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
