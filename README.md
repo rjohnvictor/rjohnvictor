@@ -20,13 +20,6 @@
   📧 Email: johnvictor2406@gmail.com
 </p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/rjohn_victor" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
