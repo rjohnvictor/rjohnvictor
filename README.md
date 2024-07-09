@@ -19,13 +19,22 @@
 
 ### 📫 How to reach me:
 <p>
-  📧 Email: <a href="mailto:johnvictor2406@gmail.com">johnvictor2406@gmail.com</a> <br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/r-john-victor-295a6382/">R. John Victor</a>
+   <a href="mailto:johnvictor2406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johnvictor2406@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <br/>
+   <a href="https://www.linkedin.com/in/r-john-victor-295a6382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-R%20John%20Victor-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+   <br/>
+  <a href="https://www.instagram.com/r_john_victor/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-r_john_victor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ### 🚀 Skills and Tools:  
 <p>
-  <code><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></code>
@@ -44,8 +53,9 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rjohnvictor&show_icons=true&locale=en&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rjohnvictor&show_icons=true&locale=en&theme=nord&rank_icon=github" alt="GitHub Stats" />
 </p>
+
 
 ---
 
