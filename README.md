@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/rjohn_victor" target="_blank">
-     <code> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></code>
+     <code> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></code>
   </a>
   &nbsp;&nbsp;
 </p>
