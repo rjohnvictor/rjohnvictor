@@ -8,28 +8,26 @@
 </p>
 
 
-
-<p align="center">
-  <a href="https://twitter.com/rjohn_victor" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rjohn_victor?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
-  </a>
-</p>
-
 ---
 
 ### 📫 How to reach me:
 <p>
-   <a href="mailto:johnvictor2406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnvictor2406@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:johnvictor2406@gmail.com">
+    <code><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></code>
   </a>
-  <br/>
-   <a href="https://www.linkedin.com/in/r-john-victor-295a6382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-R%20John%20Victor-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/r-john-victor-295a6382/" target="_blank">
+    <code> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></code>
   </a>
-   <br/>
+&nbsp;&nbsp;
   <a href="https://www.instagram.com/r_john_victor/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-r_john_victor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <code><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></code>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/rjohn_victor" target="_blank">
+     <code> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></code>
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 ### 🚀 Skills and Tools:  
