@@ -51,7 +51,7 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rjohnvictor&show_icons=true&locale=en&theme=nord&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rjohnvictor&show_icons=true&hide_border=false&count_private=true&theme=nord&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 
