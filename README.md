@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rjohnvictor&theme=nord&row=2&column=3&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rjohnvictor&theme=nord&row=1&column=8&no-frame=true&margin-w=18&margin-h=18" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -32,18 +32,18 @@
 
 ### 🚀 Skills and Tools:  
 <p>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></code>
 </p>
 
@@ -59,5 +59,5 @@
 
 ### 🔥 GitHub Contribution Streak:
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjohnvictor&theme=nord" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjohnvictor&theme=nord&hide_border=false&count_private=true&theme=nord" alt="GitHub Contribution Streak" />
 </p>
