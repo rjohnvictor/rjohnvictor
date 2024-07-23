@@ -30,7 +30,6 @@
   &nbsp;&nbsp;
 </p>
 
-Here's the updated list, sorted by types of skills and tools:
 
 ### 🚀 Skills
 <p>
