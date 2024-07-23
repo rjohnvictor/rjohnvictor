@@ -41,6 +41,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></code>&nbsp;&nbsp;
+</p>
+<p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -59,6 +61,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="Storybook" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40"/></code>&nbsp;&nbsp;
+</p>
+<p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="RxJS" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -66,6 +70,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></code>&nbsp;&nbsp;
+</p>
+<p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -74,6 +80,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></code>&nbsp;&nbsp;
+</p>
+<p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -82,6 +90,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40"/></code>&nbsp;&nbsp;
+</p>
+<p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lodash/lodash-original.svg" alt="Lodash" width="40" height="40"/></code>&nbsp;&nbsp;
