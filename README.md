@@ -76,6 +76,21 @@
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularmaterial/angularmaterial-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+          <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+          <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lodash/lodash-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="swagger" width="40" height="40"/></code>&nbsp;&nbsp;
 </p>
 
 ---
