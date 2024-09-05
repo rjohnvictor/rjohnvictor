@@ -31,7 +31,10 @@
 </p>
 
 
-### 🚀 Skills
+
+<details>
+  <summary><b>:computer: &nbsp;Skills</b></summary>
+  <br/>
 <p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -60,8 +63,10 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></code>&nbsp;&nbsp;
 </p>
-
-### 🛠 Tools
+</details>
+<details> 
+  <summary><b>🛠 Tools</b></summary>
+  <br/>
 <p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -104,6 +109,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Firefox" width="40" height="40"/></code>&nbsp;&nbsp;
 </p>
+</details>
 
 ---
 
