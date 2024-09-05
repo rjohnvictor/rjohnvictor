@@ -6,8 +6,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rjohnvictor&theme=nord&row=1&column=8&no-frame=true&margin-w=18&margin-h=18" alt="GitHub Profile Trophies" />
   </a>
 </p>
-
-
+<p align="center">
+<img src="https://wakatime.com/share/@rjohnvictor/66b3a0f7-d2ae-48ab-a2bb-6d7b809d141b.svg" alt="Firefox" />
+</p>
 ---
 
 ### 📫 How to reach me:
@@ -125,3 +126,4 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjohnvictor&theme=nord&hide_border=false&count_private=true&theme=nord" alt="GitHub Contribution Streak" />
 </p>
+<p><img src="https://wakatime.com/share/@rjohnvictor/29558635-a354-493e-a2da-245ba771a9ad.svg" height="400"/></figure>
