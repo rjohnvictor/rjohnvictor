@@ -40,6 +40,8 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="ReactJS" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></code>&nbsp;&nbsp;
@@ -100,6 +102,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Sketch" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40"/></code>&nbsp;&nbsp;
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></code>&nbsp;&nbsp;
+  <code><img src="https://zed.dev/_next/image?url=/_next/static/media/logo_icon.d67dc948.webp&w=750&q=100" alt="ZED" width="40" height="40"/></code>&nbsp;&nbsp;
 </p>
 <p>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/></code>&nbsp;&nbsp;
