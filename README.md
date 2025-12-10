@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm R. John Victor 👋</h1>
 <h3 align="center">Passionate Full Stack Developer And UX/UI Designer | India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rjohnvictor&theme=nord&row=1&column=8&no-frame=true&margin-w=18&margin-h=18" alt="GitHub Profile Trophies" />
   </a>
-</p>
+</p> -->
 <p align="center">
 <img src="https://wakatime.com/share/@rjohnvictor/66b3a0f7-d2ae-48ab-a2bb-6d7b809d141b.svg" alt="Firefox" />
 </p>
@@ -113,7 +113,7 @@
 </details>
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rjohnvictor&show_icons=true&hide_border=false&count_private=true&theme=nord&rank_icon=github" alt="GitHub Stats" />
@@ -128,6 +128,8 @@
 </p>
 
 ---
+
+-->
 
 ###  🔈 Most Language:
 <p><img src="https://wakatime.com/share/@rjohnvictor/1a632c2c-da31-4cba-a143-afbb3bea420b.svg" height="400" width="500"/>
