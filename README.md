@@ -239,8 +239,7 @@
 
   🏋 **Fitness** — Building consistency through discipline.
 
-  🚗 **Automotive Engineering** — Interested in vehicles designed for long-term ownership,
-  reliability, and thoughtful engineering.
+  🎌 **Anime & World-Building** — Fascinated by stories with rich lore, thoughtful character development, and intricate world-building.
 
   ---
 
