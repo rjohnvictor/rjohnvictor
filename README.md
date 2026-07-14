@@ -239,7 +239,7 @@
 
   🏋 **Fitness** — Building consistency through discipline.
 
-  🎌 **Anime & World-Building** — Enjoys stories centered on resilience, ambition, and personal growth, with favorites including Attack on Titan, Dragon Ball, Naruto, My Hero         Academia, and Batman.
+  🎌 **Anime & Character Writing** — Enjoys stories centered on resilience, ambition, and personal growth, with favorites including Attack on Titan, Dragon Ball, Naruto, My Hero         Academia, and Batman.
 
   ---
 
