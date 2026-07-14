@@ -51,7 +51,7 @@
 
   # 📜 Manifesto
 
-  **Resilience. Journey. Vision.**
+  **Resilience. Journey. Vision.** (R.J.V)
 
   **01 — Resilience**
 
