@@ -239,7 +239,7 @@
 
   🏋 **Fitness** — Building consistency through discipline.
 
-  🎌 **Anime & World-Building** — Fascinated by stories with rich lore, thoughtful character development, and intricate world-building.
+  🎌 **Anime & World-Building** — Enjoys stories centered on resilience, ambition, and personal growth, with favorites including Attack on Titan, Dragon Ball, Naruto, My Hero         Academia, and Batman.
 
   ---
 
