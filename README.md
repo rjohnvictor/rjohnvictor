@@ -25,10 +25,9 @@
   </a>
   &nbsp;
   <a href="https://rjohnvictor.com">
-  <img src="https://img.shields.io/badge/Portfolio-rjohnvictor.com-000000?style=for-the-badge"/>
- 
+  <img src="https://img.shields.io/badge/WEBSITE-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
- <img src="https://img.shields.io/badge/WEBSITE-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+
   </p>
 
   ---
