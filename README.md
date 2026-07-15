@@ -300,17 +300,6 @@ Improved developer experience by modernizing CI/CD and deployment workflows acro
 
   ---
 
-  ## Engineering Mindset
-
-  The products I admire most share one thing in common — they age gracefully.
-
-  Whether it's software, watches, or automobiles, I value thoughtful engineering, reliability, and
-   maintainability over short-lived trends.
-
-  Those same principles guide how I design software.
-
-  ---
-
   # 🌍 Beyond Code
 
   Engineering inspires me beyond software.
