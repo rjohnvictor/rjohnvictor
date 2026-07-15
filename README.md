@@ -120,23 +120,110 @@
 
   ---
 
-  # 🔨 Featured Projects
+# 🔨 Featured Projects
 
-  **Network Graph Widget**
-  > Interactive D3 force-directed graph integrated into a Unified Search platform. Visualizes
-  entity relationships at enterprise scale with community detection, sentiment overlays, and
-  theme-based clustering.
-  `React` `D3.js` `TypeScript` `Node.js` `NestJS`
+## 01. 📊 Network Graph Widget *(2026)*
 
-  **Enterprise Full-Stack Platform**
-  > Large-scale web application serving media analytics workflows. Next.js App Router frontend
-  with NestJS microservices backend, deployed across AWS infrastructure.
-  `Next.js` `NestJS` `AWS` `PostgreSQL` `Docker` `Kubernetes`
+Introduced interactive relationship visualization into Meltwater's Unified Search platform, enabling users to explore complex entity relationships through graph analytics.
 
-  **Cloud Infrastructure Automation**
-  > Terraform modules and GitHub Actions workflows enabling zero-downtime deployments to AWS EKS.
-  Includes OIDC-based keyless authentication, automated rollback, and environment promotion gates.
-  `Terraform` `AWS EKS` `GitHub Actions` `OIDC` `Kubernetes` `Helm`
+### Highlights
+- Built scalable graph visualization using D3.js force simulations
+- Implemented Leiden community detection and graph clustering
+- Improved exploration of enterprise-scale relationship data
+- Focused on performance, responsiveness, and user experience
+
+**Tech Stack**
+
+`React` `Next.js` `TypeScript` `D3.js` `Leiden` `Graph Algorithms`
+
+**Role**
+
+Technical Lead · Solution Architecture · Frontend Engineering · Data Visualization · Performance Optimization
+
+---
+
+## 02. 📈 Active Display
+
+Delivered a configurable enterprise dashboard platform adopted by **60+ enterprise customers**.
+
+### Highlights
+- Designed a reusable widget architecture
+- Built onboarding APIs and Google Sheets integration
+- Applied SOLID principles to improve maintainability
+- Accelerated dashboard development across teams
+
+**Tech Stack**
+
+`Angular` `Node.js` `MongoDB` `REST APIs` `Docker`
+
+**Role**
+
+Technical Lead · Architecture · Dashboard Development · Backend APIs
+
+---
+
+## 03. 📰 Skrift Pressroom
+
+Built enterprise newsroom capabilities used by **500+ organizations**, improving publishing workflows and platform reliability.
+
+### Highlights
+- Developed frontend and backend features
+- Enhanced platform security and reliability
+- Supported production releases and operational improvements
+
+**Tech Stack**
+
+`React` `Next.js` `Node.js` `AWS`
+
+---
+
+## 04. 💬 Message Handler
+
+Designed a centralized messaging platform that unified enterprise notifications across multiple communication channels.
+
+### Highlights
+- Built reusable template engine
+- Integrated WhatsApp, Slack, Microsoft Teams, and Email
+- Simplified customer communication workflows
+
+**Tech Stack**
+
+`Node.js` `RabbitMQ` `Twilio` `WhatsApp` `Slack` `Microsoft Teams`
+
+---
+
+## 05. 🛡️ Project Samvada
+
+Led implementation of a unified threat intelligence dashboard integrating multiple cybersecurity intelligence providers.
+
+### Highlights
+- Consolidated external intelligence sources
+- Improved visibility through unified dashboards
+- Designed scalable integration architecture
+
+**Tech Stack**
+
+`Cyfirma` `Cybara` `REST APIs` `Dashboard Engineering`
+
+**Role**
+
+Technical Lead · Solution Architecture · Integration Design
+
+---
+
+## 06. ⚙️ Platform Engineering
+
+Improved developer experience by modernizing CI/CD and deployment workflows across engineering teams.
+
+### Highlights
+- Migrated from Drone CI to GitHub Actions
+- Built reusable GitHub Actions workflows
+- Introduced GitOps deployments with ArgoCD
+- Standardized Kubernetes delivery using Helm and Kustomize
+
+**Tech Stack**
+
+`GitHub Actions` `AWS` `Kubernetes` `ArgoCD` `Helm` `Kustomize`
 
   ---
 
