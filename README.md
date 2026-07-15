@@ -2,7 +2,7 @@
   <h1 align="center">Hello, I'm R. John Victor 👋</h1>
 
   <h3 align="center">
-  Software Engineer • Systems Thinker • Builder of Long-Lived Products
+  Solutions Engineer • Platform Engineer • UI/UX Engineer
   </h3>
 
   <p align="center">
