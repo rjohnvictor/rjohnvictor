@@ -1,340 +1,240 @@
----
-  <h1 align="center">Hello, I'm R. John Victor 👋</h1>
+<!-- AUTO-GENERATED FILE. Source: messages/en.json + src/data/portfolio/*.ts -->
+<h1 align="center">Hello, I'm R. John Victor</h1>
 
-  <h3 align="center">
-  Solutions Engineer • Platform Engineer • UI/UX Engineer
-  </h3>
+<h3 align="center">Solutions Engineer • Platform Engineer • UI/UX Engineer</h3>
 
-  <p align="center">
-  I build software that scales, evolves gracefully, and stands the test of time.
-  </p>
+<p align="center">Building things that stand the test of time.</p>
 
-  <p align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/r-john-victor-295a6382">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/rjohnvictor">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:johnvictor2406@gmail.com">
-  <img
-  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://rjohnvictor.com">
-  <img src="https://img.shields.io/badge/WEBSITE-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-
-  </p>
-
-  ---
-
-  # 👋 About Me
-
-  Full Stack Software Engineer with ~8 years building enterprise applications, cloud-native
-  systems, and modern user interfaces.
-
-  I've worked across frontend engineering, backend services, DevOps, cloud infrastructure, and
-  developer experience.
-
-  I enjoy solving complex engineering problems by designing systems that remain maintainable,
-  scalable, and enjoyable to work on for years.
-
-  Rather than chasing trends, I focus on building software that teams can confidently understand,
-  improve, and evolve.
-
-  ---
-
-  # 📜 Manifesto
-
-  **Resilience. Journey. Vision.** (R.J.V)
-
-  **01 — Resilience**
-
-  Software is messy. Requirements change, systems fail, deadlines slip. What separates great
-  engineers is how they respond — with methodical thinking, grit, and a bias for action.
-
-  **02 — Journey**
-
-  I don't believe in destinations. Every project, every bug, every late-night debugging session is
-   a step forward. The engineer I am today exists because I stayed curious and kept building.
-
-  **03 — Vision**
-
-  Code is the easy part. Seeing three years ahead — knowing which abstractions will hold, which
-  shortcuts will cost you — that's the hard part. I build with the long game in mind.
-
-  ---
-
-  # 🧠 Engineering Philosophy
-
-  > **Great software shouldn't just work today. It should still be understandable five years from
-  now.**
-
-  I believe software should evolve—not be rewritten.
-
-  My engineering principles:
-
-  - Build for maintainability
-  - Simplicity over unnecessary complexity
-  - Performance is a feature
-  - User Experience is part of engineering
-  - Automate repetitive work
-  - Design systems—not just features
-  - Optimize for long-term ownership rather than short-term trends
-
-  ---
-
-  # 🚀 What I Build
-
-  ✔ Enterprise Web Applications
-
-  ✔ Frontend Architecture
-
-  ✔ Backend APIs & Microservices
-
-  ✔ Cloud-native Applications
-
-  ✔ Internal Developer Platforms
-
-  ✔ Data Visualization
-
-  ✔ CI/CD Pipelines & DevOps
-
-  ✔ Modern UI Engineering
-
-  ---
-
-  # 💼 Experience
-
-  **Full Stack Engineer @ Meltwater**
-  - Build enterprise React / Next.js applications for large-scale media analytics customers
-  - Design and deliver backend APIs with NestJS and Node.js deployed on AWS and Kubernetes
-  - Architected a Network Graph Widget with D3 force-directed layout, Leiden community detection,
-  and sentiment overlays over enterprise-scale datasets
-  - Drive CI/CD pipeline improvements, reducing deployment cycle time and increasing reliability
-  - Mentor interns and contribute to architecture decisions across the team
-
-  ---
-
-# 🔨 Featured Projects
-
-## 01. 📊 Network Graph Widget *(2026)*
-
-Introduced interactive relationship visualization into Meltwater's Unified Search platform, enabling users to explore complex entity relationships through graph analytics.
-
-### Highlights
-- Built scalable graph visualization using D3.js force simulations
-- Implemented Leiden community detection and graph clustering
-- Improved exploration of enterprise-scale relationship data
-- Focused on performance, responsiveness, and user experience
-
-**Tech Stack**
-
-`React` `Next.js` `TypeScript` `D3.js` `Leiden` `Graph Algorithms`
-
-**Role**
-
-Technical Lead · Solution Architecture · Frontend Engineering · Data Visualization · Performance Optimization
+</p>
 
 ---
 
-## 02. 📈 Active Display
+## About
 
-Delivered a configurable enterprise dashboard platform adopted by **60+ enterprise customers**.
+I'm R. John Victor, a Full Stack Software Engineer based in India with over 8 years of experience. I specialize in building web applications and cloud-native systems that are fast, maintainable, and built to last.
 
-### Highlights
-- Designed a reusable widget architecture
-- Built onboarding APIs and Google Sheets integration
-- Applied SOLID principles to improve maintainability
-- Accelerated dashboard development across teams
+My work spans the full stack — from pixel-precise UIs in React and Next.js to distributed backend services in NestJS and Go, running on AWS and Kubernetes. I'm comfortable owning features from architecture through deployment.
 
-**Tech Stack**
-
-`Angular` `Node.js` `MongoDB` `REST APIs` `Docker`
-
-**Role**
-
-Technical Lead · Architecture · Dashboard Development · Backend APIs
+I believe great software comes from clarity of purpose, disciplined architecture, and a relentless focus on the people who use and maintain it.
 
 ---
 
-## 03. 📰 Skrift Pressroom
+## Skills
 
-Built enterprise newsroom capabilities used by **500+ organizations**, improving publishing workflows and platform reliability.
+### Frontend
+React • Next.js • Angular • TypeScript • JavaScript • HTML5 • CSS3 • MUI
 
-### Highlights
-- Developed frontend and backend features
-- Enhanced platform security and reliability
-- Supported production releases and operational improvements
+### Backend
+Node.js • NestJS • Express • Golang • Python
 
-**Tech Stack**
+### Cloud and DevOps
+AWS Services • Docker • Kubernetes • Terraform • GitHub Actions • CI/CD • OIDC • Linux
 
-`React` `Next.js` `Node.js` `AWS`
+### Databases
+PostgreSQL • MySQL • MongoDB
 
----
+### State and APIs
+NgRx • Redux • Zustand • TanStack Query • REST APIs • Auth & Authorization
 
-## 04. 💬 Message Handler
-
-Designed a centralized messaging platform that unified enterprise notifications across multiple communication channels.
-
-### Highlights
-- Built reusable template engine
-- Integrated WhatsApp, Slack, Microsoft Teams, and Email
-- Simplified customer communication workflows
-
-**Tech Stack**
-
-`Node.js` `RabbitMQ` `Twilio` `WhatsApp` `Slack` `Microsoft Teams`
+### Interests
+AI / LLMs • RAG • LangChain • Platform Engineering • Distributed Systems
 
 ---
 
-## 05. 🛡️ Project Samvada
+## Experience
 
-Led implementation of a unified threat intelligence dashboard integrating multiple cybersecurity intelligence providers.
+### Meltwater
+Solutions Engineer Level 4 (May 2018 - Present)
 
-### Highlights
-- Consolidated external intelligence sources
-- Improved visibility through unified dashboards
-- Designed scalable integration architecture
+Career progression:
+Intern -> Junior Engineer -> Junior Solutions Engineer -> Solutions Engineer Level 1 -> Level 2 -> Level 3 -> Level 4
 
-**Tech Stack**
-
-`Cyfirma` `Cybara` `REST APIs` `Dashboard Engineering`
-
-**Role**
-
-Technical Lead · Solution Architecture · Integration Design
+Key contributions:
+- Lead end-to-end delivery of enterprise applications and custom solutions, overseeing architecture, implementation, deployment, and production support.
+- Drive Agile project execution by defining technical roadmaps, planning deliverables, coordinating cross-functional teams, and ensuring successful project outcomes.
+- Collaborate with engineering, product, UX/UI, sales, and customer-facing teams to translate business requirements into scalable technical solutions.
+- Serve as the technical lead for strategic initiatives, guiding implementation, resolving complex engineering challenges, and ensuring alignment with project milestones.
+- Lead architecture discussions, establish engineering best practices, conduct code reviews, and maintain high standards for quality, scalability, and maintainability.
+- Champion DevOps and cloud-native engineering by improving CI/CD pipelines, deployment automation, infrastructure reliability, and developer workflows.
+- Drive framework modernization, platform migrations, security enhancements, and performance optimizations across enterprise applications.
+- Mentor engineers and interns through technical guidance, design reviews, workshops, and day-to-day engineering support.
+- Contribute to project planning, technical estimation, roadmap definition, and cross-team coordination to align engineering execution with business objectives.
+- Partner with stakeholders to evaluate emerging technologies, AI capabilities, and engineering best practices to continuously improve product delivery.
 
 ---
 
-## 06. ⚙️ Platform Engineering
+## Impact delivered.
 
-Improved developer experience by modernizing CI/CD and deployment workflows across engineering teams.
+- Delivered and scaled 12+ dashboard and API solutions across enterprise products.
+- Built multiple dashboard-based solutions including IMDA, HONOR, Hotel Radisson Groups, Samvada and FWD programs.
+- Designed and shipped widget-based solution architecture used across dashboard experiences.
+- Created reusable app-tracking packages using Segment analytics for consistent event instrumentation.
+- Worked on RabbitMQ-based onboarding for API solution teams and integration workflows.
+- Owned full-stack delivery across frontend, backend APIs, deployment, and production support.
+- Developed onboarding APIs that simplified customer provisioning and reduced operational friction.
+- Migrated projects from Drone CI to GitHub Actions with reusable CI workflows and better reliability.
+- Contributed to GitOps adoption using ArgoCD, Helm, and Kustomize for centralized Kubernetes deployments.
+- Drove security improvements, dependency upgrades, and framework migrations across active products.
 
-### Highlights
-- Migrated from Drone CI to GitHub Actions
-- Built reusable GitHub Actions workflows
-- Introduced GitOps deployments with ArgoCD
-- Standardized Kubernetes delivery using Helm and Kustomize
+---
 
-**Tech Stack**
+## Education
 
-`GitHub Actions` `AWS` `Kubernetes` `ArgoCD` `Helm` `Kustomize`
+- Master of Computer Applications (MCA), Computer Science - Christ University, Bangalore (65.67% - First Class)
+- Bachelor of Computer Application, Computer Science - Loyola College (80% - First Class with Distinction)
+- PU, Mathematics and Computer Science - St. Antony's Hr.Sec.School (82% - First Class with Distinction)
+- 10th Std - St. Antony's Hr. Sec School (92% - First Class with Distinction)
+- Primary School - St. Joseph Matriculation school
 
-  ---
+---
 
-  # ⚡ Technology Stack
+## Featured Work
 
-  ## Frontend
+### 1) Network Graph Widget (2026)
+Introduced interactive relationship visualization into Meltwater's Unified Search platform.
 
-  - React
-  - Next.js
-  - Angular
-  - TypeScript
-  - JavaScript
-  - HTML5 / CSS3
-  - MUI (Material UI)
-  - Tailwind CSS
+Highlights:
+- Improved exploration of complex entity relationships through graph analytics.
+- Designed a scalable visualization architecture using D3 force simulations and Leiden clustering.
 
-  ---
+Tech:
+React • Next.js • TypeScript • D3.js • Leiden • Graph Algorithms
 
-  ## Backend
+Role:
+Technical Lead • Solution Architecture • Frontend Engineering • Data Visualization • Performance Optimization • UX Design
 
-  - Node.js
-  - NestJS
-  - Express
-  - Go (Golang)
-  - Python
+### 2) Active Display
+Delivered a configurable dashboard platform adopted by 60+ enterprise customers.
 
-  ---
+Highlights:
+- Designed reusable widget architecture enabling rapid dashboard development.
+- Built onboarding APIs and Google Sheets integration to simplify customer onboarding.
+- Applied SOLID principles to improve maintainability and scalability.
 
-  ## Cloud & DevOps
+Tech:
+Angular • Node.js • MongoDB • REST APIs • Docker
 
-  - AWS
-  - Docker
-  - Kubernetes
-  - Terraform
-  - GitHub Actions
-  - CI/CD
-  - OIDC
-  - Linux / systemd
+Role:
+Technical Lead • Architecture • Dashboard Development • Backend APIs • Production Release
 
-  ---
+### 3) Skrift Pressroom
+Built enterprise newsroom capabilities used by over 500 organizations.
 
-  ## Databases
+Highlights:
+- Improved publishing workflows and platform reliability.
+- Contributed to frontend, backend, security improvements, and production support.
 
-  - PostgreSQL
-  - MySQL
-  - MongoDB
+Tech:
+React • Next.js • Node.js • AWS
 
-  ---
+### 4) Real-Time Content Intelligence Platform (2025)
+Built a configurable enterprise homepage that aggregated live news from Australia's leading publishers in near real time.
 
-  ## State & APIs
+Highlights:
+- Designed a resilient ingestion pipeline combining web crawling, document enrichment, and AI-powered fallback extraction.
+- Implemented Server-Sent Events (SSE) to stream newly discovered content directly to the UI without polling.
 
-  - Zustand
-  - TanStack Query
-  - REST APIs
-  - Authentication & Authorization
+Tech:
+Next.js • React • Node.js • Server-Sent Events (SSE) • Web Crawlers • LLM Vision • REST APIs
 
-  ---
+Role:
+Technical Lead • Solution Architecture • Real-Time Systems • AI Integration • Frontend Engineering • Backend Engineering
 
-  ## Tools
+### 5) Enterprise Dashboards
+Designed and delivered configurable dashboard solutions across cybersecurity, media intelligence, and enterprise products for diverse customer use cases.
 
-  - Git / GitHub
-  - VS Code
-  - ESLint / Vitest
+Highlights:
+- Built reusable dashboard architecture with modular widgets, configurable layouts, and centralized state management using NgRx.
+- Integrated multiple external data providers and enterprise APIs into unified workflows, enabling customers to visualize and act on data from a single interface.
 
-  ---
+Tech:
+Highcharts • REST APIs • Dashboard • Integrations
 
-  ## Interests
+Role:
+Technical Lead • Solution Architecture • Frontend Architecture • Dashboard Engineering • State Management • Integration Design
 
-  - AI / LLMs
-  - RAG
-  - LangChain
-  - Platform Engineering
-  - Distributed Systems
+### 6) Platform Engineering
+Migrated engineering teams from Drone CI to GitHub Actions.
 
-  ---
+Highlights:
+- Built reusable GitHub Actions adopted across projects.
+- Introduced GitOps deployment model using ArgoCD, Helm and Kustomize.
+- Improved deployment consistency and developer productivity.
 
-  # 🌍 Beyond Code
+Tech:
+GitHub Actions • Kubernetes • ArgoCD • Helm • Kustomize • AWS
 
-  Engineering inspires me beyond software.
+---
 
-  Outside work you'll usually find me exploring products that embody thoughtful engineering and
-  timeless design.
+## Technical Contributions
 
-  ⌚ **Watch Collecting** — I appreciate mechanical craftsmanship and timeless engineering from
-  brands that prioritize reliability and longevity.
+### Platform Engineering
+Drone CI -> GitHub Actions migration • Reusable GitHub Actions • GitOps adoption • ArgoCD • Helm • Kustomize • Kubernetes • Secrets Management • OIDC Authentication
 
-  📷 **Photography** — Capturing moments through composition and perspective.
+### Architecture
+SOLID principles • Widget architecture • Dynamic components • Reusable UI libraries • Management APIs • Highcharts
 
-  🏋 **Fitness** — Building consistency through discipline.
+### Leadership & Mentoring
+Mentored interns and engineers • Architecture guidance and design reviews • Hands-on code reviews and delivery coaching • Internal technical workshops and knowledge-sharing sessions
 
-  🎌 **Anime & Character Writing** — Enjoys stories centered on resilience, ambition, and personal growth, with favorites including Attack on Titan, Dragon Ball, Naruto, My Hero         Academia, and Batman.
+### Security
+Dependency upgrades • Security fixes • Framework migrations • Production hardening
 
-  ---
+---
 
-  # 💡 Favorite Quote
+## Manifesto
 
-  > *"Build things people will still appreciate years from now."*
+Resilience. Journey. Vision.
 
-  ---
+### 1) Resilience
+Software is messy. Requirements change, systems fail, deadlines slip. What separates great engineers is how they respond — with methodical thinking, grit, and a bias for action.
 
-  # 📫 Let's Connect
+### 2) Journey
+I don't believe in destinations. Every project, every bug, every late-night debugging session is a step forward. The engineer I am today exists because I stayed curious and kept building.
 
-  - 💼 [LinkedIn](https://www.linkedin.com/in/r-john-victor-295a6382)
-  - 🌐 [Portfolio](https://rjohnvictor.com)
-  - 📧 [Email](mailto:johnvictor2406@gmail.com)
-  - 🐙 [GitHub](https://github.com/rjohnvictor)
+### 3) Vision
+Code is the easy part. Seeing three years ahead — knowing which abstractions will hold, which shortcuts will cost you — that's the hard part. I build with the long game in mind.
 
-  ---
+---
 
-  <p align="center">
+## Engineering Philosophy
 
-  ### Building software that stands the test of time.
+- Clean Architecture: Separation of concerns at every layer. Business logic should never bleed into transport or persistence layers.
+- Type Safety: TypeScript end-to-end. Types are documentation that the compiler enforces.
+- Performance by Design: Optimize at the right level - algorithm before cache, cache before hardware. Profile first, optimize second.
+- Developer Experience: Good DX multiplies team output. CI pipelines, tooling, and documentation matter as much as features.
+- Maintainability Over Cleverness: Code is read far more than it is written. Clear, boring code outlasts clever code.
+- Test What Matters: Test behavior, not implementation. Integration tests over mocks for critical paths.
 
-  </p>
+---
+
+## Beyond Code
+
+Outside engineering, I enjoy mechanical watches, photography, fitness, and character-driven storytelling.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/r-john-victor-295a6382
+- Portfolio: https://rjohnvictor.com
+- Email: johnvictor2406@gmail.com
+- GitHub: https://github.com/rjohnvictor
+
+<p align="center"><strong>Building things that stand the test of time.</strong></p>
